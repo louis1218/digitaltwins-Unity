@@ -1,0 +1,607 @@
+# Blender MTL File: 'YCB_all.blend'
+# Material Count: 55
+
+newmtl Default_OBJ
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/001_chips_can/poisson/textured.png
+
+newmtl Default_OBJ.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/002_master_chef_can/tsdf/textured.png
+
+newmtl Default_OBJ.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/003_cracker_box_berkeley_meshes/003_cracker_box/tsdf/textured.png
+
+newmtl Default_OBJ.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/004_sugar_box/tsdf/textured.png
+
+newmtl Default_OBJ.007
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/005_tomato_soup_can/tsdf/textured.png
+
+newmtl Default_OBJ.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/006_mustard_bottle/tsdf/textured.png
+
+newmtl Default_OBJ.009
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/007_tuna_fish_can/tsdf/textured.png
+
+newmtl Default_OBJ.010
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/008_pudding_box/tsdf/textured.png
+
+newmtl Default_OBJ.011
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/009_gelatin_box/tsdf/textured.png
+
+newmtl Default_OBJ.012
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/010_potted_meat_can/tsdf/textured.png
+
+newmtl Default_OBJ.013
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/011_banana/tsdf/textured.png
+
+newmtl Default_OBJ.014
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/012_strawberry/tsdf/textured.png
+
+newmtl Default_OBJ.015
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/013_apple/tsdf/textured.png
+
+newmtl Default_OBJ.016
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/014_lemon/tsdf/textured.png
+
+newmtl Default_OBJ.017
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/015_peach_berkeley_meshes/015_peach/tsdf/textured.png
+
+newmtl Default_OBJ.018
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/016_pear_berkeley_meshes/016_pear/tsdf/textured.png
+
+newmtl Default_OBJ.019
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/017_orange_berkeley_meshes/017_orange/tsdf/textured.png
+
+newmtl Default_OBJ.020
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/018_plum_berkeley_meshes/018_plum/tsdf/textured.png
+
+newmtl Default_OBJ.021
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/019_pitcher_base_berkeley_meshes/019_pitcher_base/tsdf/textured.png
+
+newmtl Default_OBJ.022
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/021_bleach_cleanser_berkeley_meshes/021_bleach_cleanser/tsdf/textured.png
+
+newmtl Default_OBJ.023
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/022_windex_bottle_berkeley_meshes/022_windex_bottle/tsdf/textured.png
+
+newmtl Default_OBJ.024
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/024_bowl_berkeley_meshes/024_bowl/tsdf/textured.png
+
+newmtl Default_OBJ.025
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/025_mug_berkeley_meshes/025_mug/tsdf/textured.png
+
+newmtl Default_OBJ.026
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/026_sponge_berkeley_meshes/026_sponge/tsdf/textured.png
+
+newmtl Default_OBJ.027
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/027_skillet_berkeley_meshes/027_skillet/tsdf/textured.png
+
+newmtl Default_OBJ.028
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/029_plate_berkeley_meshes/029_plate/tsdf/textured.png
+
+newmtl Default_OBJ.029
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/030_fork_berkeley_meshes/030_fork/tsdf/textured.png
+
+newmtl Default_OBJ.030
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/031_spoon_berkeley_meshes/031_spoon/tsdf/textured.png
+
+newmtl Default_OBJ.031
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/032_knife_berkeley_meshes/032_knife/tsdf/textured.png
+
+newmtl Default_OBJ.032
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/033_spatula_berkeley_meshes/033_spatula/tsdf/textured.png
+
+newmtl Default_OBJ.033
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/035_power_drill_berkeley_meshes/035_power_drill/tsdf/textured.png
+
+newmtl Default_OBJ.034
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/036_wood_block_berkeley_meshes/036_wood_block/tsdf/textured.png
+
+newmtl Default_OBJ.035
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/037_scissors_berkeley_meshes/037_scissors/tsdf/textured.png
+
+newmtl Default_OBJ.037
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/040_large_marker_berkeley_meshes/040_large_marker/tsdf/textured.png
+
+newmtl Default_OBJ.038
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/041_small_marker_berkeley_meshes/041_small_marker/tsdf/textured.png
+
+newmtl Default_OBJ.039
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/042_adjustable_wrench_berkeley_meshes/042_adjustable_wrench/tsdf/textured.png
+
+newmtl Default_OBJ.041
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/043_phillips_screwdriver_berkeley_meshes/043_phillips_screwdriver/tsdf/textured.png
+
+newmtl Default_OBJ.042
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/044_flat_screwdriver_berkeley_meshes/044_flat_screwdriver/tsdf/textured.png
+
+newmtl Default_OBJ.043
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/048_hammer_berkeley_meshes/048_hammer/tsdf/textured.png
+
+newmtl Default_OBJ.044
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/049_small_clamp_berkeley_meshes/049_small_clamp/tsdf/textured.png
+
+newmtl Default_OBJ.045
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/051_large_clamp_berkeley_meshes/051_large_clamp/tsdf/textured.png
+
+newmtl Default_OBJ.046
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/052_extra_large_clamp_berkeley_meshes/052_extra_large_clamp/tsdf/textured.png
+
+newmtl Default_OBJ.047
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/053_mini_soccer_ball_berkeley_meshes/053_mini_soccer_ball/tsdf/textured.png
+
+newmtl Default_OBJ.049
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/054_softball_berkeley_meshes/054_softball/tsdf/textured.png
+
+newmtl Default_OBJ.050
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/055_baseball_berkeley_meshes/055_baseball/tsdf/textured.png
+
+newmtl Default_OBJ.051
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/056_tennis_ball_berkeley_meshes/056_tennis_ball/tsdf/textured.png
+
+newmtl Default_OBJ.052
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/057_racquetball_berkeley_meshes/057_racquetball/tsdf/textured.png
+
+newmtl Default_OBJ.053
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/058_golf_ball_berkeley_meshes/058_golf_ball/tsdf/textured.png
+
+newmtl Default_OBJ.055
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/061_foam_brick_berkeley_meshes/061_foam_brick/tsdf/textured.png
+
+newmtl Default_OBJ.056
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/062_dice_berkeley_meshes/062_dice/tsdf/textured.png
+
+newmtl Default_OBJ.057
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/063-a_marbles_berkeley_meshes/063-a_marbles/tsdf/textured.png
+
+newmtl Default_OBJ.058
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/065-a_cups_berkeley_meshes/065-a_cups/tsdf/textured.png
+
+newmtl Default_OBJ.059
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/065-b_cups_berkeley_meshes/065-b_cups/tsdf/textured.png
+
+newmtl Default_OBJ.061
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/070-a_colored_wood_blocks_berkeley_meshes/070-a_colored_wood_blocks/tsdf/textured.png
+
+newmtl Default_OBJ.062
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/crossing/Desktop/YCB 3D/071_nine_hole_peg_test_berkeley_meshes/071_nine_hole_peg_test/tsdf/textured.png
